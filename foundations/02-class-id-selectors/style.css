@@ -1,0 +1,18 @@
+.odd-number {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#el-two {
+    color: blue;
+    font-size: 36px;
+}
+
+.style-three-four {
+    font-size: 24px;
+}
+
+#el-four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
